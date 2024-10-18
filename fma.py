@@ -1,3 +1,3 @@
-mass = 2150
+mass = "VAL-25"
 accel = 8
 force = mass*accel
