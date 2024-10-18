@@ -1,2 +1,4 @@
-def force_calculation(mass, acceleration):
-  return mass*acceleration
+mass = 0
+acceleration = 0
+
+force = mass*acceleration
